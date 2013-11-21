@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Hello World",
+		"author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
+		"description": "A sample to show how to write plugins for Aria Templates ",
+		"version": "1.0.0",
+		"releaseDate": "11/21/2013",
+		"urls": {
+			"sample": "http://www.ariatemplates.com/plugins/helloworld",
+			"repository": "https://github.com/ariatemplates-plugins/helloworld.git",
+			"thumbnail": "http://www.ariatemplates.com/plugins/helloworld/thumbnail.png"
+		}
+	},
+	{
+		"name": "Calendar Widget",
+		"author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
+		"description": "A calendar widget",
+		"version": "1.0.0",
+		"releaseDate": "11/21/2013",
+		"urls": {
+			"sample": "http://www.ariatemplates.com/plugins/calendarwidget",
+			"repository": "https://github.com/ariatemplates-plugins/calendarwidget.git",
+			"thumbnail": "http://www.ariatemplates.com/plugins/calendarwidget/thumbnail.png"
+		}
+	},
+	{
+		"name": "Light Widgets Library",
+		"author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
+		"description": "A library of light widgets",
+		"version": "1.0.0",
+		"releaseDate": "11/21/2013",
+		"urls": {
+			"sample": "http://www.ariatemplates.com/plugins/lightwidgets",
+			"repository": "https://github.com/ariatemplates-plugins/lightwidgets.git",
+			"thumbnail": "http://www.ariatemplates.com/plugins/lightwidgets/thumbnail.png"
+		}
+	}
+]
