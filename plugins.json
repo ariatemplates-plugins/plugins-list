@@ -1,37 +1,36 @@
 [
 	{
 		"name": "Hello World",
-		"author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
-		"description": "A sample to show how to write plugins for Aria Templates ",
+		"author": "Aria Templates team",
+		"description": "A sample to show and document how to write plugins for Aria Templates.",
 		"version": "1.0.0",
-		"releaseDate": "11/21/2013",
+		"releaseDate": "November 21, 2013",
 		"urls": {
 			"sample": "http://www.ariatemplates.com/plugins/helloworld",
-			"repository": "https://github.com/ariatemplates-plugins/helloworld.git",
-			"thumbnail": "http://www.ariatemplates.com/plugins/helloworld/thumbnail.png"
+			"homepage": "https://github.com/ariatemplates-plugins/helloworld"
 		}
 	},
 	{
 		"name": "Calendar Widget",
-		"author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
-		"description": "A calendar widget",
+		"author": "Aria Templates team",
+		"description": "A highly configurable widget to create a web-based calendar to display and manage events with several view modes (day, week).",
 		"version": "1.0.0",
-		"releaseDate": "11/21/2013",
+		"releaseDate": "November 22, 2013",
 		"urls": {
 			"sample": "http://www.ariatemplates.com/plugins/calendarwidget",
-			"repository": "https://github.com/ariatemplates-plugins/calendarwidget.git",
+			"homepage": "https://github.com/ariatemplates-plugins/calendarwidget",
 			"thumbnail": "http://www.ariatemplates.com/plugins/calendarwidget/thumbnail.png"
 		}
 	},
 	{
 		"name": "Light Widgets Library",
-		"author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
-		"description": "A library of light widgets",
+		"author": "Aria Templates team",
+		"description": "A library of light widgets decoupled from the skinning system of Aria Templates and from the aria widget library. It introduces 5 new widgets: Autocomplete, Calendar, DateField, DatePicker and TextInput.",
 		"version": "1.0.0",
-		"releaseDate": "11/21/2013",
+		"releaseDate": "November 21, 2013",
 		"urls": {
 			"sample": "http://www.ariatemplates.com/plugins/lightwidgets",
-			"repository": "https://github.com/ariatemplates-plugins/lightwidgets.git",
+			"homepage": "https://github.com/ariatemplates-plugins/lightwidgets",
 			"thumbnail": "http://www.ariatemplates.com/plugins/lightwidgets/thumbnail.png"
 		}
 	}
