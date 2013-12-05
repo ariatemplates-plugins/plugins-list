@@ -33,5 +33,17 @@
 			"homepage": "https://github.com/ariatemplates-plugins/lightwidgets",
 			"thumbnail": "http://www.ariatemplates.com/plugins/lightwidgets/thumbnail.png"
 		}
+	},
+	{
+		"name": "Table Template",
+		"author": "carlo-mr (https://github.com/carlo-mr)",
+		"description": "A template for a table providing basic feature set including sorting, filtering and paging.",
+		"version": "1.0.0",
+		"releaseDate": "December 05, 2013",
+		"urls": {
+			"sample": "http://ariatemplates-plugins.github.io/tabletemplate",
+			"homepage": "https://github.com/ariatemplates-plugins/tabletemplate",
+			"thumbnail": "http://ariatemplates-plugins.github.io/tabletemplate/thumbnail.png"
+		}
 	}
 ]
