@@ -33,5 +33,17 @@
 			"homepage": "https://github.com/ariatemplates-plugins/lightwidgets",
 			"thumbnail": "http://www.ariatemplates.com/plugins/lightwidgets/thumbnail.png"
 		}
+	},
+	{
+		"name": "Carousel Widget",
+		"author": "Aria Templates team",
+		"description": "A simple and configurable carousel widget, as used on http://ariatemplates.com.",
+		"version": "1.0.0",
+		"releaseDate": "December 12, 2013",
+		"urls": {
+			"sample": "http://ariatemplates.com/plugins/carouselwidget/",
+			"homepage": "https://github.com/ariatemplates-plugins/carouselwidget",
+			"thumbnail": "http://ariatemplates.com/plugins/carouselwidget/thumbnail.png"
+		}
 	}
 ]
