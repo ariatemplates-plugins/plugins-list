@@ -45,5 +45,16 @@
 			"homepage": "https://github.com/ariatemplates-plugins/carouselwidget",
 			"thumbnail": "http://ariatemplates.com/plugins/carouselwidget/thumbnail.png"
 		}
-	}
+	},
+    {
+        "name": "Table Template",
+        "author": "Aria Templates team",
+        "description": "A table template plugin for Aria Templates.",
+        "version": "1.0.0",
+        "releaseDate": "December 12, 2013",
+        "urls": {
+                "sample": "http://ariatemplates-plugins.github.io/tabletemplate/",
+                "homepage": "https://github.com/ariatemplates-plugins/tabletemplate"
+        }
+    }
 ]
