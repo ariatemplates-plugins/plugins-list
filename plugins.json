@@ -41,7 +41,7 @@
 		"version": "1.0.0",
 		"releaseDate": "December 12, 2013",
 		"urls": {
-			"sample": "http://ariatemplates.com/plugins/carouselwidget/",
+			"sample": "http://ariatemplates.com/plugins/carouselwidget",
 			"homepage": "https://github.com/ariatemplates-plugins/carouselwidget",
 			"thumbnail": "http://ariatemplates.com/plugins/carouselwidget/thumbnail.png"
 		}
@@ -53,8 +53,9 @@
         "version": "1.0.0",
         "releaseDate": "December 12, 2013",
         "urls": {
-                "sample": "http://ariatemplates-plugins.github.io/tabletemplate/",
-                "homepage": "https://github.com/ariatemplates-plugins/tabletemplate"
+        		"sample": "http://ariatemplates.com/plugins/tabletemplate/",
+                "homepage": "https://github.com/ariatemplates-plugins/tabletemplate",
+                "thumbnail": "http://ariatemplates.com/plugins/tabletemplate/thumbnail.png"
         }
     }
 ]
